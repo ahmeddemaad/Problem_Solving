@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/algo/Fibonacci_Modulo_Number/cmake-build-debug/CMakeFiles/Fibonacci.dir/embed.manifest"
