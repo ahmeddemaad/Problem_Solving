@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(First_and_Last_Occurence_using_Binary_Search)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(First_and_Last_Occurence_using_Binary_Search main.cpp)

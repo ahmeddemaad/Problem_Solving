@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/algo/First_and_Last_Occurence_using_Binary_Search/cmake-build-debug/CMakeFiles/First_and_Last_Occurence_using_Binary_Search.dir/embed.manifest"
